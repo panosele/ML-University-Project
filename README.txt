@@ -25,3 +25,4 @@ You can install these packages, in cmd you can navigate to the folder of the pro
 	or
 You can download PyCharm and run it from the enviroment. (https://www.jetbrains.com/help/pycharm/installation-guide.html)
 
+With collaborator @ Alexandros Tzampazis
